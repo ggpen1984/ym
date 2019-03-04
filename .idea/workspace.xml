@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a156d22-648a-42d2-a54e-b717b083761e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img-down-75f57aa490.png" afterPath="$PROJECT_DIR$/images/img-down-75f57aa490.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/img-potato-join-d42518514d.png" afterPath="$PROJECT_DIR$/images/img-potato-join-d42518514d.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/ios-001-3409e19d2d.png" afterPath="$PROJECT_DIR$/images/ios-001-3409e19d2d.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slid_1-8a1cb03035.png" afterPath="$PROJECT_DIR$/images/slid_1-8a1cb03035.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/appPay.min.js" afterPath="$PROJECT_DIR$/js/appPay.min.js" />
     </list>
     <ignored path="ym.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,17 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="appPay.min.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="appPay.min.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/appPay.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="99" column="57" selection-start-line="99" selection-start-column="57" selection-end-line="99" selection-end-column="57" />
+            <state relative-caret-position="135">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -58,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/appPay.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/appPay.min.js" />
       </list>
     </option>
   </component>
@@ -206,12 +201,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551692672221</updated>
-      <workItem from="1551692673504" duration="670000" />
+      <workItem from="1551692673504" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="670000" />
+    <option name="totallyTimeSpent" value="894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -253,14 +248,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/appPay.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="99" column="57" selection-start-line="99" selection-start-column="57" selection-end-line="99" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/img-down-75f57aa490.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -270,6 +257,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/appPay.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
           <folding />
         </state>
       </provider>
